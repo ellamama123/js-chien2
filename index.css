@@ -17,6 +17,19 @@ span.dau {
     margin: 0px 10px;
 }
 
+button.btn.btn-outline-secondary.btn-ngan {
+    width: 75px;
+    background: white;
+}
+
+.form-group {
+    width: 100%;
+}
+
+div#col3 input {
+    width: 232px;
+}
+
 .card-body {
     padding: 0px;
 }
